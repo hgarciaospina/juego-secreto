@@ -189,7 +189,4 @@ h1 {
         padding: 0.8rem;
     }
 
-    .container__imagen-persona {
-        display: none; /* Opcional: ocultar imagen en pantallas muy pequeñas */
-    }
 }
